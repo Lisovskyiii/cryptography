@@ -1,0 +1,10 @@
+// Permutation:  0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19
+                19  9 14  3 16 17 15  2 18  5 12  4  6  7  1  8 10 11 13  0 
+// Number of characters:
+174
+// Text:
+moi ectinu srordinsOlsemsv u tweelise res uee eppWlodthon r
+stl n d hdata olpa, e
+el rusTohenruld ahstvatny hsati  i di'g,uen ds
+aRoeupos rhi hehmoww-e  whtw ehl.H emt
+ l -la
